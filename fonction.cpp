@@ -39,7 +39,7 @@ void Questionnaire(int& Juste, int& Faux)
             Faux++;
         }
     
-        cout <<"Question numero 2 : Comment s'appelle le chateau ou vont les eleves ?" << endl; //Question 2
+        cout <<"Question numero 2 : Ou etudient les eleves ?" << endl; //Question 2
              cout <<"a) Buckingam Palace" << endl;
              cout <<"b) Versaille" << endl;
              cout <<"c) Poudlard" << endl;

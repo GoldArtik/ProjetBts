@@ -26,11 +26,11 @@ int main() // Programme principal
     
     if (Juste<= 5)
     {
-        cout <<"Tu est pas un vrai fan d'Harry Potter"<<endl; 
+        cout <<"Tu n'es pas un vrai fan d'Harry Potter"<<endl; 
     }
     else
     {
-        cout <<"Tu est un vrai fan d'Harry Potter"<< endl; 
+        cout <<"Tu es un vrai fan d'Harry Potter"<< endl; 
     }
     ofstream fichier("C:/Users/strob/Desktop/Projet/reponse.txt");
     if (fichier.is_open()) { //ouverture du fichier 
